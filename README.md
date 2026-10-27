@@ -117,5 +117,6 @@ https://www.youtube.com/watch?v=5pweJaeWnwc
 Quest 2, Урок 2:
 https://www.youtube.com/watch?v=vG2w-NC8Bew
 
-typist.online
+Тренажер кода:
+https://typist.online
 
