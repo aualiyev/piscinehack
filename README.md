@@ -106,3 +106,16 @@ gofumpt -d .
 gofumpt -w .
 ```
 
+### Ресурсы
+
+Вводное видео:
+https://www.youtube.com/playlist?list=PLIb1whG82v48
+
+Quest 2, Урок 1:
+https://www.youtube.com/watch?v=5pweJaeWnwc
+
+Quest 2, Урок 2:
+https://www.youtube.com/watch?v=vG2w-NC8Bew
+
+typist.online
+
